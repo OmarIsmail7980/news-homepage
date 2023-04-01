@@ -30,14 +30,19 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-Mobile view
+<h2>Mobile view</h2>
 
 <img src="./assets/images/mobile1.jpg">
+<----->
+
 <img src="./assets/images/mobile2.jpg">
+<----->
+
 <img src="./assets/images/mobile3.jpg">
 
 
-Desktop view
+
+<h2>Desktop view</h2>
 <img src="./assets/images/desktop.jpg">
 
 
